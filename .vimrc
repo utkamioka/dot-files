@@ -7,6 +7,5 @@ syntax on
 :autocmd FileType c,cpp,perl set cindent
 :autocmd FileType python set tabstop=4 shiftwidth=4 expandtab
 :autocmd FileType ruby set tabstop=2 shiftwidth=2 expandtab
-:autocmd FileType groovy set tabstop=2 shiftwidth=2 expandtab
 :set autoindent
 :set shiftwidth=4
